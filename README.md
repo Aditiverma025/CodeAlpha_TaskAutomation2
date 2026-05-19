@@ -11,7 +11,7 @@ Pull requests
  Tags
  Activity
 Public repository
-NAMANPHOGAT/CodeAlpha_TaskAutomation
+ADITI VERMA/CodeAlpha_TaskAutomation
 Name	
 aditi verma
 aditi verma
@@ -105,13 +105,13 @@ The input file sample_text.txt may contain:
 
 For internship support, contact services@codealpha.tech.
 For general queries, email services.codealpha@gmail.com.
-Student email example: naman.phogat@example.com.
+Student email example: ADIT.VERMA@example.com.
 Sample Output
 After extraction, the output file extracted_emails.txt will contain:
 
 Extracted Email Addresses
 =========================
-1. naman.phogat@example.com
+1. ADITI.VERMA@example.com
 2. services.codealpha@gmail.com
 3. services@codealpha.tech
 Report File
