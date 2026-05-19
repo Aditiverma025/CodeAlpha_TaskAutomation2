@@ -1,0 +1,15 @@
+Task Automation Report
+======================
+Developer: aditi verma 
+Internship: CodeAlpha Python Programming Internship
+Project: Email Extractor Automation
+
+Input File: sample_text.txt
+Output File: extracted_emails.txt
+Total Emails Extracted: 4
+
+Emails Found:
+- aditi.verma@example.com
+- project.team@internship.org
+- services.codealpha@gmail.com
+- services@codealpha.tech
