@@ -1,0 +1,63 @@
+Project Name
+Email Extractor Automation
+
+Developed By
+aditi verma
+
+Internship
+CodeAlpha Python Programming Internship
+
+Introduction
+Email Extractor Automation is a Python project that automates the process of extracting email addresses from a text file.
+
+In real life, people often receive large text documents, reports, or notes containing email addresses. Manually searching and copying each email can take time. This project solves that problem by automatically finding all valid email addresses and saving them into a separate file.
+
+Main Purpose
+The main purpose of this project is to automate a repetitive task using Python.
+
+The selected automation task is:
+
+Extract all email addresses from a .txt file and save them into another file.
+
+How It Works
+The program starts with a menu.
+A sample input file is created automatically if it does not exist.
+The user can view the input file.
+The user can add more text into the input file.
+The program extracts email addresses using regular expressions.
+Duplicate emails are removed.
+Extracted emails are saved in extracted_emails.txt.
+A detailed report is generated in automation_report.txt.
+Important Python Concepts Used
+1. Regular Expressions
+Regular expressions are used to search for email address patterns.
+
+2. File Handling
+File handling is used to read and write text files.
+
+3. Functions
+Functions are used to keep the code clean and reusable.
+
+4. Loops
+A while loop is used to show the menu repeatedly.
+
+5. Conditional Statements
+If-elif-else statements are used to process menu options.
+
+6. Pathlib
+Pathlib is used for file path management.
+
+7. DateTime
+The datetime module is used to add date and time to the automation report.
+
+Main Features
+Extract emails from a text file
+Remove duplicate emails
+Sort emails
+Save results
+Generate report
+View input file
+Add new text
+View extracted emails
+Conclusion
+This project is a practical example of task automation using Python. It demonstrates how Python can save time by automating repetitive file-processing tasks.
